@@ -29,4 +29,4 @@ for filename in os.listdir('./cogs'):
 
 ########## Token ##########
 
-client.run("ADD_YOUR_TOKEN_HERE")
+client.run("YOUR_TOKEN_HERE")
