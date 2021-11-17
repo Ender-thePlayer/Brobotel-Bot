@@ -1,3 +1,6 @@
-CREDITS FOR THE BOT (py)
+CREDITS FOR THE BOT (PY)
+
+Brobotel The Bot is not affiliated with Discord Inc.
+All modules in requirements.txt are owned by their respective owners, I'm NOT owner of any of these modules used!
 
 This bot is made by End3r_Player#0802 under the name EndR Productions, this bot is open source but you mustn't use the code to impersonate the original bot, scam peopple and other things like this. By using the bot you are cool :D and thx for using my bot.
