@@ -186,11 +186,13 @@ class User(commands.Cog):
 
         )
         em.set_footer(text = f'Invoked by: @{ctx.author}!', icon_url = ctx.author.avatar_url)
-        em.add_field(name= "Changelogs Command is Unavable!",  value = "We're sorry but this command is unavable at this moment!")
+        em.add_field(name= "Current Version:",  value = "``1.6.1``", inline = True)
+        em.add_field(name= "Version Name",  value = "``Life-Changing Update``", inline = True)
+        em.add_field(name= "Changelogs:",  value = "```⏵ Made Brobotel the Bot project\nPublic at rb.gy/vbztwl\n⏵ Removed brobotelbot.ml site\nbecause of a bug```", inline = False)
 
         await ctx.send(embed = em, delete_after=120)
         await ctx.message.delete()
- 
+        
 ########## Setup ##########
 
 def setup (client):
